@@ -45,9 +45,9 @@ Web Application App is providing some the features to the users such as
   
   iv) deleting employees  and  deleting students
   
-   iv) logout
+  iv) logout
   
-5. Faculty  will perform the  tasks 
+5.Faculty will perform the  tasks 
 
   i) viewing Students
   
@@ -58,7 +58,7 @@ Web Application App is providing some the features to the users such as
   iv) logout
  
   
-5.Students  will perform the  tasks 
+6.Students will perform the  tasks 
 
   i) viewing Timetable
   
